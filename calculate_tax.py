@@ -12,3 +12,6 @@ def calculate_tax():
             print("You are in the higher tax bracket")
         else:
             print("You are in the lower tax bracket")
+
+# Run the function
+calculate_tax()
